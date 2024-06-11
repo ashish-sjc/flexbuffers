@@ -1,4 +1,4 @@
-module github.com/kanosaki/flexbuffers
+module github.com/ashish-sjc/flexbuffers
 
 go 1.21.1
 
