@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"flexbuffers/pkg/unsafeutil"
+	"github.com/ashish-sjc/flexbuffers/pkg/unsafeutil"
 )
 
 var (
